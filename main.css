@@ -1,0 +1,212 @@
+/*******************************
+NAVIGATION
+********************************/
+.nav li {
+	display: inline;
+	letter-spacing: .1em;
+}
+
+.nav a {
+    color: #9A2434;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 14px 14px 10px 14px;
+    margin-left: 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+/*******************************
+JUMBOTRON
+********************************/
+.jumbotron {
+    height: 500px;
+    background-image: url(images/beach.jpg);
+    padding-top: 14px;
+    margin-bottom: 0px;
+    border-bottom: 6px solid #2F2115;
+    font-family: 'Special Elite', cursive;
+}
+
+.jumbotron h1 {
+    color: #2F2115;
+    font-size: 64px;
+    font-weight: bold;
+}
+
+.jumbotron p {
+    color: #2F2115;
+    font-size: 20px;
+}
+
+.jumbotron .container {
+    position: relative;
+    top: 100px;
+}
+
+.jumbotron .container a {
+    color: #264D6E;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/*******************************
+CONTENT IMAGES
+********************************/
+.content-images {
+    margin-top: 40px;
+    border-bottom: 4px double #2F2115;
+    padding-bottom: 50px;
+}
+
+.thumbnail {
+	opacity: 0.5;
+}
+
+.content-images h2 {
+	font-family: 'Special Elite', cursive;
+    font-size: 40px;
+    text-transform: uppercase;
+    color: #2F2115;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    letter-spacing: .05em;
+    /*z-index: 100;
+    position: relative;
+    left: 25px;
+    top: 175px;*/
+}
+
+/*******************************
+BODY
+********************************/
+body {
+	font-family: 'Josefin Sans', sans-serif;
+	background-color: #D8DBC6;
+	color: #264D6E;
+}
+
+h2 {
+	font-size: 36px;
+	padding-top: 50px;
+	padding-bottom: 15px;
+}
+
+p {
+	font-size: 16px;
+}
+
+ul {
+	font-size: 16px;
+	list-style-type: square;
+}
+
+/*******************************
+ABOUT
+********************************/
+.about {
+    border-bottom: 4px double #2F2115;
+    padding-bottom: 50px;
+}
+
+.about .thumbnail {
+	opacity: 1;
+}
+
+/*******************************
+EXPERIENCE
+********************************/
+.experience .recent {
+	border-bottom: 1px solid #2F2115; 
+}
+
+.experience .col-md-4 {
+	padding-bottom: 50px;
+}
+
+.experience {
+    border-bottom: 4px double #2F2115;
+    padding-bottom: 50px;
+}
+
+.experience li {
+	padding: 2px;
+	padding-right: 15px;
+}
+
+/*******************************
+SKILLS
+********************************/
+.skills ul {
+	list-style: none;
+}
+
+.skills {
+    border-bottom: 4px double #2F2115;
+    padding-bottom: 50px;
+}
+
+/*******************************
+EDUCATION
+********************************/
+.education a {
+	text-decoration: none;
+	color: #51718B;
+	cursor: pointer;
+}
+
+.education {
+    border-bottom: 4px double #2F2115;
+    padding-bottom: 50px;
+}
+
+.education li {
+	padding: 2px;
+	padding-right: 15px;
+}
+
+/*******************************
+RECOMMENDATIONS
+********************************/
+.recommendations h4 {
+	text-align: right;
+}
+
+.recommendations h5 {
+	text-align: right;
+	line-height: 20px;
+}
+
+.recommendations p {
+	font-style: italic;
+}
+
+.recommendations {
+    border-bottom: 4px double #2F2115;
+    padding-bottom: 50px;
+}
+
+/*******************************
+SOCIAL
+********************************/
+.social img {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+.social {
+    border-bottom: 4px double #2F2115;
+    padding-bottom: 75px;
+}
+
+/*******************************
+Footer
+********************************/
+.footer p {
+	font-size: 12px;
+	text-align: center;
+	margin: 30px;
+}
