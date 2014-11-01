@@ -2,8 +2,8 @@
 NAVIGATION
 ********************************/
 .nav li {
-	display: inline;
-	letter-spacing: .1em;
+    display: inline;
+    letter-spacing: .1em;
 }
 
 .nav a {
@@ -61,11 +61,11 @@ CONTENT IMAGES
 }
 
 .thumbnail {
-	opacity: 0.5;
+    opacity: 0.5;
 }
 
 .content-images h2 {
-	font-family: 'Special Elite', cursive;
+    font-family: 'Special Elite', cursive;
     font-size: 40px;
     text-transform: uppercase;
     color: #2F2115;
@@ -83,24 +83,24 @@ CONTENT IMAGES
 BODY
 ********************************/
 body {
-	font-family: 'Josefin Sans', sans-serif;
-	background-color: #D8DBC6;
-	color: #264D6E;
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #D8DBC6;
+    color: #264D6E;
 }
 
 h2 {
-	font-size: 36px;
-	padding-top: 50px;
-	padding-bottom: 15px;
+    font-size: 36px;
+    padding-top: 50px;
+    padding-bottom: 15px;
 }
 
 p {
-	font-size: 16px;
+    font-size: 16px;
 }
 
 ul {
-	font-size: 16px;
-	list-style-type: square;
+    font-size: 16px;
+    list-style-type: square;
 }
 
 /*******************************
@@ -112,18 +112,18 @@ ABOUT
 }
 
 .about .thumbnail {
-	opacity: 1;
+    opacity: 1;
 }
 
 /*******************************
 EXPERIENCE
 ********************************/
 .experience .recent {
-	border-bottom: 1px solid #2F2115; 
+    border-bottom: 1px solid #2F2115; 
 }
 
 .experience .col-md-4 {
-	padding-bottom: 50px;
+    padding-bottom: 50px;
 }
 
 .experience {
@@ -132,15 +132,15 @@ EXPERIENCE
 }
 
 .experience li {
-	padding: 2px;
-	padding-right: 15px;
+    padding: 2px;
+    padding-right: 15px;
 }
 
 /*******************************
 SKILLS
 ********************************/
 .skills ul {
-	list-style: none;
+    list-style: none;
 }
 
 .skills {
@@ -152,9 +152,9 @@ SKILLS
 EDUCATION
 ********************************/
 .education a {
-	text-decoration: none;
-	color: #51718B;
-	cursor: pointer;
+    text-decoration: none;
+    color: #51718B;
+    cursor: pointer;
 }
 
 .education {
@@ -163,24 +163,24 @@ EDUCATION
 }
 
 .education li {
-	padding: 2px;
-	padding-right: 15px;
+    padding: 2px;
+    padding-right: 15px;
 }
 
 /*******************************
 RECOMMENDATIONS
 ********************************/
 .recommendations h4 {
-	text-align: right;
+    text-align: right;
 }
 
 .recommendations h5 {
-	text-align: right;
-	line-height: 20px;
+    text-align: right;
+    line-height: 20px;
 }
 
 .recommendations p {
-	font-style: italic;
+    font-style: italic;
 }
 
 .recommendations {
@@ -192,9 +192,9 @@ RECOMMENDATIONS
 SOCIAL
 ********************************/
 .social img {
-	display: block;
-  	margin-left: auto;
-  	margin-right: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .social {
@@ -206,7 +206,7 @@ SOCIAL
 Footer
 ********************************/
 .footer p {
-	font-size: 12px;
-	text-align: center;
-	margin: 30px;
+    font-size: 12px;
+    text-align: center;
+    margin: 30px;
 }
