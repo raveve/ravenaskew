@@ -73,10 +73,9 @@ CONTENT IMAGES
     text-align: center;
     text-decoration: none;
     letter-spacing: .05em;
-    /*z-index: 100;
+    width: 540px;
     position: relative;
-    left: 25px;
-    top: 175px;*/
+    margin: 0 auto;
 }
 
 /*******************************
@@ -88,10 +87,16 @@ body {
     color: #264D6E;
 }
 
-h2 {
+h3 {
     font-size: 36px;
     padding-top: 50px;
     padding-bottom: 15px;
+}
+
+h4 {
+    font-size: 45px;
+    font-style: bold;
+    text-align: right;
 }
 
 p {
@@ -108,7 +113,7 @@ ABOUT
 ********************************/
 .about {
     border-bottom: 4px double #2F2115;
-    padding-bottom: 50px;
+    padding-bottom: 75px;
 }
 
 .about .thumbnail {
@@ -128,7 +133,7 @@ EXPERIENCE
 
 .experience {
     border-bottom: 4px double #2F2115;
-    padding-bottom: 50px;
+    padding-bottom: 75px;
 }
 
 .experience li {
@@ -145,7 +150,7 @@ SKILLS
 
 .skills {
     border-bottom: 4px double #2F2115;
-    padding-bottom: 50px;
+    padding-bottom: 75px;
 }
 
 /*******************************
@@ -159,7 +164,7 @@ EDUCATION
 
 .education {
     border-bottom: 4px double #2F2115;
-    padding-bottom: 50px;
+    padding-bottom: 75px;
 }
 
 .education li {
@@ -171,6 +176,7 @@ EDUCATION
 RECOMMENDATIONS
 ********************************/
 .recommendations h4 {
+    font-size: 16px;
     text-align: right;
 }
 
@@ -185,7 +191,7 @@ RECOMMENDATIONS
 
 .recommendations {
     border-bottom: 4px double #2F2115;
-    padding-bottom: 50px;
+    padding-bottom: 75px;
 }
 
 /*******************************
@@ -199,7 +205,7 @@ SOCIAL
 
 .social {
     border-bottom: 4px double #2F2115;
-    padding-bottom: 75px;
+    padding-bottom: 100px;
 }
 
 /*******************************
@@ -208,5 +214,5 @@ Footer
 .footer p {
     font-size: 12px;
     text-align: center;
-    margin: 30px;
+    margin-top: 200px;
 }
