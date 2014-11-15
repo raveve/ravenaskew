@@ -71,13 +71,16 @@ CONTENT IMAGES
     color: #2F2115;
     font-weight: bold;
     text-align: center;
-    text-decoration: none;
     letter-spacing: .05em;
-    width: 540px;
     position: relative;
     margin: 0 auto;
+    top: 155px;
+    z-index: 100;
 }
 
+.content-images a {
+        text-decoration: none;
+}
 /*******************************
 BODY
 ********************************/
@@ -204,8 +207,8 @@ SOCIAL
 }
 
 .social {
-    border-bottom: 4px double #2F2115;
-    padding-bottom: 100px;
+    /*border-bottom: 4px double #2F2115;*/
+    padding-bottom: 250px;
 }
 
 /*******************************
