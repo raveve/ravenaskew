@@ -26,6 +26,7 @@ JUMBOTRON
     margin-bottom: 0px;
     border-bottom: 6px solid #2F2115;
     font-family: 'Special Elite', cursive;
+    background-size: cover;
 }
 
 .jumbotron h1 {
